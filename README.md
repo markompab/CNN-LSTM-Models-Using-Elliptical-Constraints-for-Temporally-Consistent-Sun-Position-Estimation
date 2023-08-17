@@ -1,4 +1,4 @@
-# CNN-LSTM-Models-Using-Elliptical-Constraints-for-Temporally-Consistent-Sun-Position-Estimation
+# Using-CNN-LSTM-Models-with-Elliptical-Constraints-for-Temporally-Consistent-Sun-Position-Estimation
 A real-time sky imaging system and a CNN-LSTM network that regresses sun positions from input image sequences. In order to ensure that predicted sun positions are consistent with the natural path of the sun, the CNN-LSTM network was trained with elliptical constraints in addition to the primary L1-based loss term.
 
 ### CAU-2 Dataset
