@@ -1,0 +1,14 @@
+keras==2.8.0
+keras_nightly==2.5.0.dev2021032900
+Keras_Preprocessing==1.1.2
+matplotlib==3.7.1
+numpy==1.23.5
+opencv_python==4.7.0.72
+opencv_python_headless==4.7.0.72
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy==1.11.2
+skimage==0.0
+tensorflow==2.8.0
+TrainLogger==0.1.0
+wandb==0.14.0
